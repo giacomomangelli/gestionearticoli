@@ -1,0 +1,14 @@
+D:\Giacomo\eclipse-workspace-new\gestionearticolijspservletjpamaven\src\main\java\it\gestionearticolijspservletjpamaven\web\servlet\ExecuteVisualizzaArticoloServlet.java
+D:\Giacomo\eclipse-workspace-new\gestionearticolijspservletjpamaven\src\main\java\it\gestionearticolijspservletjpamaven\dao\ArticoloDAOImpl.java
+D:\Giacomo\eclipse-workspace-new\gestionearticolijspservletjpamaven\src\main\java\it\gestionearticolijspservletjpamaven\dao\ArticoloDAO.java
+D:\Giacomo\eclipse-workspace-new\gestionearticolijspservletjpamaven\src\main\java\it\gestionearticolijspservletjpamaven\service\ArticoloService.java
+D:\Giacomo\eclipse-workspace-new\gestionearticolijspservletjpamaven\src\main\java\it\gestionearticolijspservletjpamaven\service\ArticoloServiceImpl.java
+D:\Giacomo\eclipse-workspace-new\gestionearticolijspservletjpamaven\src\main\java\it\gestionearticolijspservletjpamaven\dao\IBaseDAO.java
+D:\Giacomo\eclipse-workspace-new\gestionearticolijspservletjpamaven\src\main\java\it\gestionearticolijspservletjpamaven\service\MyServiceFactory.java
+D:\Giacomo\eclipse-workspace-new\gestionearticolijspservletjpamaven\src\main\java\it\gestionearticolijspservletjpamaven\utility\UtilityArticoloForm.java
+D:\Giacomo\eclipse-workspace-new\gestionearticolijspservletjpamaven\src\main\java\it\gestionearticolijspservletjpamaven\dao\MyDaoFactory.java
+D:\Giacomo\eclipse-workspace-new\gestionearticolijspservletjpamaven\src\main\java\it\gestionearticolijspservletjpamaven\web\servlet\ExecuteInsertArticoloServlet.java
+D:\Giacomo\eclipse-workspace-new\gestionearticolijspservletjpamaven\src\main\java\it\gestionearticolijspservletjpamaven\web\servlet\ListArticoliServlet.java
+D:\Giacomo\eclipse-workspace-new\gestionearticolijspservletjpamaven\src\main\java\it\gestionearticolijspservletjpamaven\web\servlet\PrepareInsertArticoloServlet.java
+D:\Giacomo\eclipse-workspace-new\gestionearticolijspservletjpamaven\src\main\java\it\gestionearticolijspservletjpamaven\web\listener\LocalEntityManagerFactoryListener.java
+D:\Giacomo\eclipse-workspace-new\gestionearticolijspservletjpamaven\src\main\java\it\gestionearticolijspservletjpamaven\model\Articolo.java
